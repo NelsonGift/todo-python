@@ -34,11 +34,11 @@ Install my-project with npm
 
 1. Navigate to the project directory:
    ```bash
-   cd todo-crud
+   cd mysite
 
 2. Create a virtual environment to isolate dependencies:
    ```bash
-   cd todo-crud
+   python -m venv venv
 
 3.Activate the virtual environment:
 
